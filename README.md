@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">Hi! My name is Khadija. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<p align="center">I'm an Undergraduate Computer System Engineering Student And A Hardware Design Engineer [RISC-V]</p>
+<p align="center">I'm an Undergraduate Computer Systems Engineering Student And Hardware Design Engineer [RISC-V]</p>
 
 ### 💻 Languages and Tools: 
   
