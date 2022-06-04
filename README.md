@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/khadijaak/"><img height="30" src="https://www.clipartmax.com/png/small/41-413941_ln-linkedin-logo-png.png"></a>
 </p>
 
-<h2 align="center">Hi! My name is Khadija. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center">Hi! My name is Khadija. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"></h2>
 <p align="center">I'm an Undergraduate Computer Systems Engineering Student And Hardware Design Engineer [RISC-V]</p>
 
 ### 💻 Languages and Tools: 
